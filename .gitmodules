@@ -8,8 +8,3 @@
 	url = https://github.com/fredcommo/nplr
 	shallow = true
 	registered = true
-[submodule "rCGH"]
-	path = rCGH
-	url = https://github.com/fredcommo/rcgh
-	shallow = true
-	registered = true
