@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "nplr"]
-	path = nplr
-	url = https://github.com/fredcommo/nplr
-	shallow = true
-	registered = true
 [submodule "rCGH"]
 	path = rCGH
 	url = https://github.com/fredcommo/rcgh
+	shallow = true
+	registered = true
+[submodule "nplr"]
+	path = nplr
+	url = https://github.com/fredcommo/nplr
 	shallow = true
 	registered = true

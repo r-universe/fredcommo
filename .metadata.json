@@ -1,9 +1,9 @@
 [
   {
-    "package": "nplr",
-    "oncran": true
+    "package": "rCGH"
   },
   {
-    "package": "rCGH"
+    "package": "nplr",
+    "oncran": true
   }
 ]
