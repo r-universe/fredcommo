@@ -5,6 +5,3 @@
 [submodule "nplr"]
 	path = nplr
 	url = https://github.com/fredcommo/nplr
-[submodule "rCGH"]
-	path = rCGH
-	url = https://github.com/fredcommo/rcgh
